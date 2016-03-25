@@ -1,0 +1,9 @@
+C:\Users\Ryan\Documents\ID3KeyWriter\ID3KeyWriter\ID3KeyWriter\bin\Debug\ID3KeyWriter.exe.config
+C:\Users\Ryan\Documents\ID3KeyWriter\ID3KeyWriter\ID3KeyWriter\bin\Debug\ID3KeyWriter.exe
+C:\Users\Ryan\Documents\ID3KeyWriter\ID3KeyWriter\ID3KeyWriter\bin\Debug\ID3KeyWriter.pdb
+C:\Users\Ryan\Documents\ID3KeyWriter\ID3KeyWriter\ID3KeyWriter\obj\Debug\ID3KeyWriter.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\ID3KeyWriter\ID3KeyWriter\ID3KeyWriter\obj\Debug\ID3KeyWriter.exe
+C:\Users\Ryan\Documents\ID3KeyWriter\ID3KeyWriter\ID3KeyWriter\obj\Debug\ID3KeyWriter.pdb
+C:\Users\Ryan\Documents\ID3KeyWriter\ID3KeyWriter\ID3KeyWriter\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\Ryan\Documents\ID3KeyWriter\ID3KeyWriter\ID3KeyWriter\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\Ryan\Documents\ID3KeyWriter\ID3KeyWriter\ID3KeyWriter\bin\Debug\TagLib.Portable.dll
